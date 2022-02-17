@@ -5,7 +5,7 @@
 </Authors>
 	<PackageId>RICKFAF_ESC_POS_USB_NET</PackageId>
     <ApplicationVersion>1.0.0</ApplicationVersion>
-    <TargetFramework>netstandard2.0</TargetFramework>
+    <TargetFrameworks>netstandard2.0;net472;net461</TargetFrameworks>
     <RootNamespace>ESC_POS_USB_NET</RootNamespace>
     <ApplicationIcon>Icon.ico</ApplicationIcon>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
